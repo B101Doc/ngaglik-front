@@ -1,0 +1,1 @@
+var json_KantorLurah_21 = {"type":"FeatureCollection","name":"KantorLurah_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"Kantor Kelurahan Ngaglik"},"geometry":{"type":"Point","coordinates":[112.520768413000042,-7.872227530999965]}}]}

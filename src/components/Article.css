@@ -1,0 +1,61 @@
+#headArtikel{
+    display: flex;
+    box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+    margin-bottom: 35px;
+    height: 58px;
+    align-items: center;
+    border-radius: 15px;
+    background-color: #F5F5F5;
+    width: 88vw;
+}
+.article-page-content{
+    display: flex;
+    margin-bottom: 200px;
+}
+.article-container{
+    display: inline-block;  
+    margin-left: 55px;
+    margin-right: auto;
+    padding: 30px;    
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    width: 55vw;    
+    background-color: #F5F5F5;    
+    flex: 1;
+}
+.article-title{
+    font-weight: bold;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    margin-bottom: 20px;
+}
+.article-text{
+    display: grid;
+}
+.article-content{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.article-cover{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    min-width: 60%;
+}
+.home img{
+    width: 25px;
+    padding-bottom: 5px;
+}
+.slash{
+    margin-left: 8px;
+    margin-right: 8px;
+    color: gray;
+}
+
+.side-news{
+    display: inline-block;
+    width: 20%;
+    margin-left: 50px;
+    margin-right: 112px;
+}

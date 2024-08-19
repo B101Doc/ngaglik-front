@@ -1,0 +1,142 @@
+.main{
+    display: flex;
+    flex-direction: row;
+}
+#headWisata{
+    display: flex;
+    box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+    margin-bottom: 35px;
+    height: 58px;
+    align-items: center;
+    border-radius: 15px;
+    background-color: #F5F5F5;
+    width: 100vw;
+}
+.home img{
+    width: 25px;
+    padding-bottom: 5px;
+}
+.slash{
+    margin-left: 8px;
+    margin-right: 8px;
+    color: gray;
+}
+#main_content{
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    padding: 30px;    
+    width: 55vw;
+    margin-bottom: 150px;
+    background-color: #F5F5F5;
+    margin-left: 60px;
+}
+.wisata_1 p{
+    padding-left: 7px;
+}
+.wisata_1 img{
+    margin-left: 20px;
+    width: 45%;
+}
+.wisata_1 a{
+    padding-left: 32px;
+    font-size: 13px;
+}
+.wisata_1{
+    margin-bottom: 45px;
+}
+#side_content{
+    margin-bottom: 10px;
+    width: 33vw;
+    margin-right: 50px;
+}
+.title{
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+    width: fit-content;
+    height: 45px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    border-radius: 15px 15px 0px 0px;
+    letter-spacing: 2px;
+    background-color: #F5F5F5;
+}
+.title a{
+    color: black;
+    text-decoration: none;
+}
+.content{
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 0px 15px 15px 15px;
+    padding-bottom: 85px;    
+    background-color: #F5F5F5;
+}
+.content img{
+    width: 110px;
+}
+.separator{
+    border: 0.1px solid black;
+    width: 88%;
+    margin: auto;
+}
+#content1, #content2, #content3{
+    padding: 45px 20px 5px 40px;
+    display: flex;
+}
+#content1 a, #content2 a, #content3 a{
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+#logo_date{
+    width: 20px;
+    height: 20px;
+    margin-top: 6px;
+}
+.tanggal{
+    display: flex;
+}
+.tanggal p {
+    margin-top: 6px;
+    margin-left: 5px;
+    font-size: 11px;
+    color: #A0AC9B;
+}
+#SideNews{
+    margin-bottom: 10px;
+    width: 35vw;
+    
+}
+.SideNewsContent{
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 0px 15px 15px 15px;
+    padding-bottom: 85px;
+    background-color: #F5F5F5;
+    width: fit-content;
+}
+.SideNewsContent img{
+    width: 110px;
+}
+.separator{
+    border: 0.1px solid black;
+    width: 89%;
+    margin: auto;
+}
+#sideBerita{
+    padding: 45px 20px 5px 40px;
+    display: flex;
+}
+#sideBerita p{
+    margin-left: 10px;
+    padding-bottom: 5px;
+    color: black;
+    text-decoration: underline #F5F5F5;
+}
+.date p {
+    margin-top: 6px;
+    margin-left: 5px;
+    font-size: 11px;
+    color: #A0AC9B;
+}
+.date{
+    display: flex;
+}

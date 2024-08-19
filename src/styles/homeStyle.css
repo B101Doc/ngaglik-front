@@ -1,0 +1,113 @@
+.HomeContent{
+    background-color: #E9E9E9;
+}
+.polygon{
+    width: 0;
+    height: 1px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid #000000;
+    transform: rotate(90deg);
+    margin-left: 5px;
+    margin-top: 13px;
+}
+.carousel{
+    width: 1%;
+}
+#tentang_kelurahan h4{
+    display: flex;
+}
+#tentang_kelurahan a{
+    text-decoration: none;
+    color: black;
+}
+#tentang_kelurahan{
+    margin-top: 50px;
+}
+.separator-home{
+    border: 1px solid black;
+    margin-bottom: 25px;
+}
+.deskripsi{
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    background-color: #F5F5F5;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+}
+.deskripsi img{
+    width: 200px;
+    margin: 20px 25px;
+}
+.deskripsi p{
+    margin: 15px 0px;
+}
+.profile-video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-top: 50px;
+    width: 960px;
+    height: 540px;
+    
+}
+#berita{
+    margin-top: 100px;
+}
+#berita a{
+    display: flex;
+    color: black;
+      text-decoration: none;
+}
+.card{
+    width: 16.5rem;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.7);
+    margin-right: 35px;
+    background-color: #F5F5F5;
+}
+.card_news{
+    display: flex;
+}
+.card img{
+    width: 70%;
+    border-radius: 10px;
+    margin: 15px 40px;
+}
+.card-text{
+    margin: 18px;
+    padding-bottom: 14px;
+}
+#wisata{
+    background-color: #D9D9D9;
+    margin-top: 165px;
+    padding-bottom: 100px;
+}
+.wisata{
+    background-color: #F5F5F5;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.7);
+    display: flex;
+    margin-bottom: 25px;
+}
+.wisata img{
+    width: 200px;
+    margin: 20px 25px;
+    border-radius: 10px;
+}
+.wisata p{
+    margin: 15px 0px;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wisata_title{
+    padding-top: 100px;
+}
+#wisata_title a{
+    display: flex;
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,41 @@
+.navbar-toggler{
+    border: 0px;
+    margin-right: 10px;
+}
+.navbar{
+    background-color: #588157;
+}
+.navbar img{
+    width: 70px;
+    margin-left: 105px;
+}
+.nama_logo{
+    color: white;
+}
+#navmenu{
+    padding-bottom: 5px;
+}
+.navbar-nav{
+    margin-right: 50px;
+}
+ul {
+    margin-left: 20px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    height: 30px;
+}
+li b{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 30px;
+    margin-left: 15px;
+    font-weight: bold;
+    text-decoration: underline #588157;
+}
+li b:hover {
+    color: #FFCA42;
+    font-weight: bold;
+}

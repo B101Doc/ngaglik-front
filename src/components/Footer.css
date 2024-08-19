@@ -1,0 +1,53 @@
+.footer{
+    height: fit-content;
+    background-color: #588157;
+    padding-bottom: 10px;
+}
+#profil_kontak{
+    display: flex;
+}
+#profil_kontak a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.profil h5{
+    color: #FFFFFF;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.profil p{
+    color: #FFFFFF;
+    width: 35vw;
+}
+.kontak{
+    margin-left: 200px;
+}
+.kontak h5{
+    color: #FFFFFF;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.kontak p{
+    color: #FFFFFF;
+}
+
+.watermark{
+    background-color: #3A5A40;
+    height: 75px;
+}
+.webDesa{
+    padding-top: 25px;
+    color: #FFFFFF;
+}
+.uniBraw{
+    padding-top: 25px;
+    color: #FFFFFF;
+}
+#wm{
+    display: flex;
+    justify-content: space-between;
+}
+#wm a{
+    color: #FFFFFF;
+    text-decoration: none;
+}

@@ -1,0 +1,1 @@
+var json_Vihara_10 = {"type":"FeatureCollection","name":"Vihara_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"REMARK":"Vihara"},"geometry":{"type":"Point","coordinates":[112.524638603000085,-7.870040718999974]}}]}

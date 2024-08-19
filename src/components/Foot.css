@@ -1,0 +1,20 @@
+.watermark{
+    background-color: #3A5A40;
+    height: 75px;;
+}
+.webDesa{
+    padding-top: 25px;
+    color: #FFFFFF;
+}
+.uniBraw{
+    padding-top: 25px;
+    color: #FFFFFF;
+}
+#wm{
+    display: flex;
+    justify-content: space-between;
+}
+#wm a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
