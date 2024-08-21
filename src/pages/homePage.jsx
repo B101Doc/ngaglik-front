@@ -17,7 +17,7 @@ const HomePage = ({ articles, tourisms, about, carousels }) => {
 
   return (
     <>
-      <div className="HomeContent">
+      <div className="HomeContent">                
 
         <Carousel
           showThumbs={false}

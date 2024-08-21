@@ -31,8 +31,8 @@ const App = () => {
         console.log('Carousels: ', carousels)
 
     return(
-        <Router>
-            <Navbar />
+        <Router>  
+            <Navbar />          
             <Routes>
                 <Route path='/' element={<HomePage articles={articles}  tourisms={tourisms} about={about} carousels={carousels} />} />
                 <Route path='/wisata' element={<WisataPage tourisms={tourisms} articles={articles}/>} />                

@@ -1,6 +1,31 @@
 .HomeContent{
     background-color: #E9E9E9;
 }
+.newnavbar{
+    display: flex;
+    background-color:#588157;    
+    border: 1px #000000;
+
+    .newlogo{
+        display: flex;
+        img{
+            width: 70px;
+            height: auto;
+        }        
+    }
+
+    .newnav-text{
+        color: #FFFFFF;
+        font-size: 18px;
+        font-weight: bold;
+        display: flex;
+        gap: 1em;        
+        :hover{
+            color: #FFCA42;
+            text-decoration: underline;
+        }        
+    }
+}
 .polygon{
     width: 0;
     height: 1px;
@@ -10,9 +35,6 @@
     transform: rotate(90deg);
     margin-left: 5px;
     margin-top: 13px;
-}
-.carousel{
-    width: 1%;
 }
 #tentang_kelurahan h4{
     display: flex;
