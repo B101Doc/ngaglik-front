@@ -1,0 +1,1 @@
+var json_KantorPos_7 = {"type":"FeatureCollection","name":"KantorPos_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"REMARK":"Kantor Pos"},"geometry":{"type":"Point","coordinates":[112.516765396000096,-7.868454170999939]}}]}

@@ -1,0 +1,1 @@
+var json_KantorPolisi_20 = {"type":"FeatureCollection","name":"KantorPolisi_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"REMARK":"Kantor Polisi"},"geometry":{"type":"Point","coordinates":[112.523672806000036,-7.870424714999956]}}]}

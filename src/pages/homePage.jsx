@@ -24,7 +24,7 @@ const HomePage = ({ articles, tourisms, about, carousels }) => {
           autoPlay
           useKeyboardArrows
           infiniteLoop
-          showStatus={false}
+          showStatus={false} 
           className="carousel"
         >
           {carousels.data.attributes.Images.data.map((carousel) => (

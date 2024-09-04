@@ -1,3 +1,7 @@
+/* eslint-disable react/jsx-key */
+/* eslint-disable react/no-unknown-property */
+/* eslint-disable react/prop-types */
+/* eslint-disable no-unused-vars */
 import React from "react";
 import "../styles/wisataStyle.css";
 import { json, Link } from "react-router-dom";
